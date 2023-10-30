@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: lib/Dockerfile
+      worker: yarn.lock
 run:
    worker: npm start
