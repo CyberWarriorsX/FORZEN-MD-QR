@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /lib/Dockerfile
+      worker: auth_info_baileys
 run:
    worker: npm start
